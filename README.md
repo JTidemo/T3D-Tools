@@ -122,6 +122,12 @@ Renders the UV layout of your mapped parts to a PNG, to use as a guide when pain
 
 The template above is colored by side: everything on the right of the object origin (+X) is red, everything on the left is grey. This is a good method to use in your viewport (see **Preview on Car** below) to make sure your mapping isn't just mirrored. If the two halves overlap in UV space, or the colors land on the wrong side of the car, you will see it straight away. Flip Sides swaps the two colors.
 
+### Preview on the car
+
+![Side colors previewed on the car](images/livery-template-preview.png)
+
+**Preview on Car** puts the template on the car in the viewport, as above. Red is the right side and grey is the left. If a part is mirrored or lands on the wrong side, it shows straight away.
+
 ### Other options
 
 - **Color by material:** colors faces with Material A or Material B in two colors, instead of by side.
